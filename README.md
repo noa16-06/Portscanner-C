@@ -15,8 +15,8 @@
 ```
 
 A simple TCP port scanner written in C. Given a hostname or IP and a port range,
-it attempts a TCP connection on each port and prints the one that are open,
-along with the know service name.
+it attempts a TCP connection on each port and prints the ones that are open,
+along with the known service name.
 
 ## Usage
 

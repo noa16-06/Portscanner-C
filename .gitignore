@@ -1,0 +1,11 @@
+# Compiled binary
+portscanner
+
+# Object files
+*.o
+*.obj
+
+# Debug / editor
+*.dSYM/
+.vscode/
+.idea/
